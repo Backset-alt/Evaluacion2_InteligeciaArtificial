@@ -104,6 +104,15 @@ En la [Imagen3] se observa que al trabajar solo con el 80% especialmente en las 
   - existe mucha mayor agrupacion de resultados de la fuerza del agarre de acuerdo a su edad
   - de acuerdo a la edad la mayor distancia alcanzada es alcanzada  a menor edad
   - existe una relacion negativa en las actividades de acostarse_levantarse y saltos de longitud indicandonos que a menor edad mejores resultados
+  
+  ![Imagen4](/imagenes/analisis4.png)
+  En la [Imagen4] se observa que al trabajar con el 80% de los datos disponibles el salto de Longitud al mejor rendimiento corporal la clase A tiene mejor puntaje y la clase D es la que tiene menor porcentaje con respecto a esta variable.
+  
+  ![Imagen5](/imagenes/analisis5.png)
+  En la [Imagen5] se observa que la fuerza de agarre con los abdominales, sentarse y levantarse se define que a mayor grasa Corporal menor el rendimiento corporal.
+  
+  
+
 ## 4.  Analisis con el 20% del Dataset
  
 ## 5.  Bibliografía
