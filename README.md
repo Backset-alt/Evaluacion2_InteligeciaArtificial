@@ -8,7 +8,8 @@
 Dataset: Age and Body Performance(Edad y Rendimiento Corporal)
 
 URL: [Body performance Data | Kaggle](https://www.kaggle.com/kukuroo3/body-performance-data)
-
+URL Video Youtube: Evaluacion 2 IA(https://youtu.be/s3UFk1KfZjM)
+ 
 ## 1.  Análisis de Dataset
 El Dataset elegido para el presente trabajo tiene como nombre “Age and Body Performance” obtenido en [1](#c1), el cual tiene como objeto de estudio la edad y rendimiento corporal con el fin de observar características corporales y su relación con el rendimiento físico.
 En dicho dataset destacan algunas columnas de datos, que tienen relación con características físicas del cuerpo detalladas a continuación:
