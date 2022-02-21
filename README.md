@@ -124,22 +124,27 @@ En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto 
   
 ## 5.  Manual de Uso
   En la [imagen 1] se abre weka y vamos con el cursor a Explorer.
-   ![Imagen7](/imagenes/manual1.jpeg) 
+  
+   ![Imagen1](/imagenes/manual1.jpeg) 
   
   En la [imagen 2] se va a preprocesos y elige el archivo con el dataset y con el 80%.
-   ![Imagen7](/imagenes/manual 2.jpeg) 
+  
+   ![Imagen 2](/imagenes/manual 2.jpeg) 
   
   En la [imagen 3] se eligen todas las variables en la opción all para seleccionarlas todas.
-   ![Imagen7](/imagenes/manual3.jpeg) 
+  
+   ![Imagen 3](/imagenes/manual3.jpeg) 
   
   En la [imagen 4] se elige la opción clasificar y tomamos en cuenta el algoritmo que vamos a utilizar.
-   ![Imagen7](/imagenes/manual4.jpeg) 
+  
+   ![Imagen 4](/imagenes/manual4.jpeg) 
   
   En la [imagen 5] se selecciona esta opción y se elige el dataset para predecir.
-   ![Imagen7](/imagenes/manual5.jpeg) 
+  
+   ![Imagen 5](/imagenes/manual5.jpeg) 
   
   En la [imagen 6] se realiza en mas opciones para determinar la salida en texto plano.
-   ![Imagen7](/imagenes/manual6.jpeg) 
+   ![Imagen 6](/imagenes/manual6.jpeg) 
   
   
 ## 6.  Predicciones
