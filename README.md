@@ -177,7 +177,7 @@ En la [Imagen8] se observa acerca del peso, en la cual se predice, a menor peso 
   
 ## 6.  Conclusiones
   Tras la realizacion del presente trabajo se puede concluir que
-  - 
+  - La variable del perso influye mucho de manera proporcional con las actividades fisicas, por tanto a partir de las predicciones realizadas a traves del    algoritmo se entinede que para un mejor rendimiento fisico no siempre se necesita el menor peso sino el adecuado de acuerdo a la edad resultado en un mejor rendimiento.
   -
   -
 ## 7.  Bibliografía
