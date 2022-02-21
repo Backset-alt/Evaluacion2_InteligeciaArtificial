@@ -129,7 +129,7 @@ En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto 
   
   En la [imagen 2] se va a preprocesos y elige el archivo con el dataset y con el 80%.
   
-   ![Imagen 2](/imagenes/manual 2.jpeg) 
+   ![Imagen 2](/imagenes/manual2.jpeg) 
   
   En la [imagen 3] se eligen todas las variables en la opción all para seleccionarlas todas.
   
