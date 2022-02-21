@@ -179,7 +179,7 @@ En la [Imagen8] se observa acerca del peso, en la cual se predice, que no al men
   Tras la realizacion del presente trabajo se puede concluir que
   - La variable del peso influye mucho de manera proporcional con las actividades fisicas, por tanto a partir de las predicciones realizadas a traves del    algoritmo se entiende que para un mejor rendimiento fisico no siempre se necesita el menor peso sino el adecuado de acuerdo a la edad resultado en un mejor rendimiento.
   - El algoritmo usado como es RandomForest nos dio mejor resultado en las predicciones debido a que funciona bien aún sin ajuste de hiperparámetros y funciona bien para problemas de clasificación y también de regresión.
-  -
+  - Los coeficientes de correlacion en cada prediccion al ser muy cercana al 1 indica que los datos predichos tienen una gran relacion y por tanto demuestra la relacion entre el peso y la grasa corporal, como desencadenantes en cada actividad fisica. 
 ## 8.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
