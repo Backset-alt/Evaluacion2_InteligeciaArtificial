@@ -9,8 +9,6 @@ Dataset: Age and Body Performance(Edad y Rendimiento Corporal)
 
 URL: [Body performance Data | Kaggle](https://www.kaggle.com/kukuroo3/body-performance-data)
 
-URL Video Youtube: Evaluacion 2 IA(https://youtu.be/s3UFk1KfZjM)
- 
 ## 1.  Análisis de Dataset
 El Dataset elegido para el presente trabajo tiene como nombre “Age and Body Performance” obtenido en [1](#c1), el cual tiene como objeto de estudio la edad y rendimiento corporal con el fin de observar características corporales y su relación con el rendimiento físico.
 En dicho dataset destacan algunas columnas de datos, que tienen relación con características físicas del cuerpo detalladas a continuación:
@@ -174,15 +172,15 @@ En la [Imagen6] nos arroja un resumen de los resultados que se obtuvieron de la 
 En la [Imagen7] se observa una predicción de la grasa corporal, en la cual despues de predecir se determina a mayor grasa corporal menor tasa de rendimiento.
   ![Imagen7](/imagenes/grasa_visualize_error.jpeg)  
 
-En la [Imagen8] se observa acerca del peso, en la cual se predice, a menor peso mayor rendimiento corporal.
+En la [Imagen8] se observa acerca del peso, en la cual se predice, que no al menor peso mayor rendimiento sino va de acuerdo a la edad.
   ![Imagen8](/imagenes/peso_visualize_error.jpeg)  
   
-## 6.  Conclusiones
+## 7.  Conclusiones
   Tras la realizacion del presente trabajo se puede concluir que
-  - La variable del perso influye mucho de manera proporcional con las actividades fisicas, por tanto a partir de las predicciones realizadas a traves del    algoritmo se entinede que para un mejor rendimiento fisico no siempre se necesita el menor peso sino el adecuado de acuerdo a la edad resultado en un mejor rendimiento.
+  - La variable del peso influye mucho de manera proporcional con las actividades fisicas, por tanto a partir de las predicciones realizadas a traves del    algoritmo se entiende que para un mejor rendimiento fisico no siempre se necesita el menor peso sino el adecuado de acuerdo a la edad resultado en un mejor rendimiento.
+  - El algoritmo usado como es RandomForest nos dio mejor resultado en las predicciones debido a que funciona bien aún sin ajuste de hiperparámetros y funciona bien para problemas de clasificación y también de regresión.
   -
-  -
-## 7.  Bibliografía
+## 8.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
 [2] <a name="c2">J. Brownlee, «How to Use Machine Learning Algorithms in Weka». 15 de julio de 2016. [En línea]. Disponible en: [https://machinelearningmastery.com/use-machine-learning-algorithms-weka/](https://machinelearningmastery.com/use-machine-learning-algorithms-weka/)</a>
