@@ -114,8 +114,53 @@ En la [Imagen3] se observa que al trabajar solo con el 80% especialmente en las 
   
 
 ## 4.  Analisis con el 20% del Dataset
- 
-## 5.  Bibliografía
+En la [Imagen7] se observa que el porcentaje de instancias correctamente clasificadas es mucho menor ya que cuenta con el 68.1647% en comparacion con el 73.7513% del analisis inicial, esto se genera por que se tomo un menor numero de instancias que el original ya que este constaba con 6518 instancias y en la actual solo se tomaron en cuenta 1805. De igual forma el porcentaje de instancias incorrectamente clasificadas es mayor en el analisis del 20% ya que al existir menos datos existe un margen de error mucho mas alto.Con respecto a la matriz de confusion existe un ligero cambio en la clasificacion de las estadisticas pues en el analisis original se clasificaban de la siguiente forma C,A,B,D y en la actual con el 20% de instancias se clasifican asi C,A,D,B por lo que infiere que la clasificacion con estos datos no es muy confiable.  
+  ![Imagen7](/imagenes/analisis20_1.png)
+En la [Imagen8] se observa el producto del analisis de solo el 20% de los datos, en el mapa de calor nos muestra una mayor dispersion en todos los aspectos sin embargo la edad se sigue proyectando como la principal correlacion con todas las demas variables del analisis por lo que se muestra un patron mayormente marcado.
+  ![Imagen8](/imagenes/analisi20_2.png)
+En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto de loguitud y como esta influye en la clasificacion en correlacion con las demas variables, se puede observar que tambien existe cierto grado de dispersion pero el grado de clasificacion sigue siendo significativo.
+  ![Imagen9](/imagenes/ananlisis20_3.png)
+  
+## 5.  Predicciones
+  
+En la [Imagen1] se observa el test de predicciones en donde solo se toma en cuenta la variable class y nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones.
+  ![Imagen1](/imagenes/prediccion_class.jpeg)
+  
+En la [Imagen2] se muestra el resumen de la evaluacion del test entre los que destacan estan la correcta clasificacion de instancias en donde se analizan 1973 que corresponde al 74.5091%, tambien nos muestra las instancias que fueron clasificadas incorrectamente las cuales son el 675 instancias y representan el 25.4909%.Tambien nos muestra el porcentaje del error relativo absoluto que en este analisis alcanzo el 53.472%.
+-Ademas de eso nos muestra precisión detallada de todas las clases
+-En cuanto a la matriz de confusion se puede observar que en la diagonal principal se encuentran los valores mas altos por lo que se puede concluir que los datos estan siendo bien clasificados.
+  ![Imagen2](/imagenes/matrizPredicciom_class.jpeg)  
+  
+En la [Imagen3] se observa el test de predicciones para la variable body fat(grasa corporal) en donde igualmente nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones
+  ![Imagen3](/imagenes/prediccionBF.jpeg)  
+
+En la [Imagen4] nos muestra un resumen con los resultados que se obtuvieron de la evaluacion en donde se analizaron 2648 instancias y nos presentan algunos valores como el valor de el porcentaje de correlacion que en este caso es del 0.84,el error relativo absoluto que representa el 51.3957%.   
+  ![Imagen4](/imagenes/matrizBF.jpeg)  
+  
+En la [Imagen5] se observa el test de predicciones para la variable weight(peso) en donde igualmente nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones
+  ![Imagen5](/imagenes/prediccionPeso.jpeg)  
+
+En la [Imagen6] se observa
+  ![Imagen6](/imagenes/matrizPeso.jpeg)    
+
+En la [Imagen5] se observa
+  ![Imagen5](/imagenes/prediccionPeso.jpeg)  
+
+En la [Imagen6] se observa
+  ![Imagen6](/imagenes/matrizPeso.jpeg)  
+  
+En la [Imagen7] se observa
+  ![Imagen7](/imagenes/grasa_visualize_error.jpeg)  
+
+En la [Imagen8] se observa
+  ![Imagen8](/imagenes/peso_visualize_error.jpeg)  
+  
+## 6.  Conclusiones
+  Tras la realizacion del presente trabajo se puede concluir que
+  - 
+  -
+  -
+## 7.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
 
 [2] <a name="c2">J. Brownlee, «How to Use Machine Learning Algorithms in Weka». 15 de julio de 2016. [En línea]. Disponible en: [https://machinelearningmastery.com/use-machine-learning-algorithms-weka/](https://machinelearningmastery.com/use-machine-learning-algorithms-weka/)</a>
